@@ -1,7 +1,9 @@
 # AI_In_Poker
 
-1. Activate environment
+1. Create environment
+```python3 -m venv venv```
 ```source venv/bin/activate```
+```pip install -r requirements.txt```
 
 2. Download PokerBench dataset
 ```python scripts/download_pokerbench.py```
