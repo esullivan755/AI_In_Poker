@@ -3,3 +3,7 @@ pytest>=7.0.0
 
 # Future API dependencies will be added here
 
+datasets
+transformers
+huggingface_hub
+tqdm
